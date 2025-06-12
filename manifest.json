@@ -1,0 +1,23 @@
+{
+  "name": "Ayushi's Smart Nutrition Analyzer",
+  "short_name": "Nutrition Analyzer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#34a0a4",
+  "description": "AI-based food analysis and personalized nutrition advisor",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "lang": "en"
+}
